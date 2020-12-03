@@ -1,9 +1,7 @@
-## Laravel Multiple Models Search Demo
+## Laravel Eloquent Scope as Select Demo
 
-* [Live Stream 28 October 14:00 CET](https://www.youtube.com/watch?v=WigAaQsPgSA)
-* [Package used in the stream](https://github.com/protonemedia/laravel-cross-eloquent-search)
-
-<img src="https://raw.githubusercontent.com/pascalbaljet/laravel-multiple-models-search-demo/main/screenshot.png" />
+* [Live Stream 3 December 14:00 CET](https://youtu.be/0vR8IQSFsfQ)
+* [Package used in the stream](https://github.com/protonemedia/laravel-eloquent-scope-as-select)
 
 ## Code of Conduct
 
